@@ -1,0 +1,9 @@
+---
+title: "My analysis"
+author: "AI"
+output: "html_document"
+---
+I am going to make a plot
+```{r}
+read.csv(iris)
+```
